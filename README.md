@@ -51,8 +51,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/yasserzs3/yasserzs3/output/snake.svg" alt="Snake animation" />
 
 ###
